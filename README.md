@@ -103,7 +103,7 @@
 ## K
 
 + Kawan Koding: [kawankoding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
-+ Kelas Terbuka: [idrcorner](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
++ Kelas Terbuka: [kelasterbuka](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
 + KopiAnan: [kopianan](https://www.youtube.com/channel/UC1NN2986RQGNmzhDUl_WtyQ)
 
 
