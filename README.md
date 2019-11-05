@@ -172,4 +172,4 @@
 ----
 
 
-Copyright © 2019 template from @mazipan
+Copyright © 2019 template from [mazipan](https://github.com/mazipan)
