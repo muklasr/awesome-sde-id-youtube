@@ -141,6 +141,7 @@
 ## S
 
 + Sekolah Koding: [sk](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
++ Sastra Nabanan: [sastra](https://www.youtube.com/user/sastranababan)
 
 ## T
 
