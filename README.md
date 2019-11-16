@@ -92,7 +92,7 @@
 ## I
 
 + IDStack: [idstack](https://youtube.com/@idstack)
-+ Ihwan: [ihwan](https://youtube.com/@ihwan)
++ Ihwan: [ihwan](https://www.youtube.com/channel/UCjntzibNSsjjIOh0HoP9vxw)
 + Indonesia Belajar: [indonesia belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
 + idr corner: [idrcorner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
 
