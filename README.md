@@ -1,6 +1,9 @@
 # awesome-sde-id-youtube
 
-😎 Daftar akun Youtube keren dari para pegiat software engineering di Indonesia
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/)
+[![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
+
+😎 Daftar akun Youtube keren dari para pegiat software developer engineer di Indonesia
 
 ## Navigasi Berdasar Abjad
 
@@ -41,38 +44,38 @@
 + Fork repo ini, dan buat branch baru (jangan pake branch `master` ya...)
 + PR ke branch master dari repo ini
 + Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan **Abjad (*alphabet*)** dari namanya
-+ Formatnya agar diseragamkan dengan yang lain, yakni: `NAMA_ASLI/SAPAAN: [nama_channel](link_youtube)`
++ Formatnya agar diseragamkan dengan yang lain, yakni: `[nama_channel](link_youtube)`
 + Satu Pull Request hanya untuk menambahkan satu nama baru, hal ini untuk memperketat proses review
 + Jangan lupa untuk klik ⭐️ di repository ini.
 + Terima kasih untuk kontribusinya, dan semoga bermanfaat...
 
 ## A
 
-+ Agung Setiawan: [IDRails](https://www.youtube.com/channel/UClYSachcLCPcKdvZw6iE4qw)
-+ Angga Risky: [angga risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
-+ Abdul Aziz Ahwan: [abdul aziz ahwan](https://www.youtube.com/channel/UCQUfwiydQHf0u4Gb6uT-hyA)
-+ Agit Naeta: [agit naeta](https://www.youtube.com/channel/UC2ZwPrUbjBcAbk9qem810rA)
-+ Artivisi Media: [Endi Muhardin](https://www.youtube.com/channel/UC3oNtvY3sETKZU7wEQyePQQ)
-+ Azhar Rivaldi: [azhar rivaldy](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
-+ Azis Seno : [Siza](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
++ [Agung Setiawan](https://www.youtube.com/channel/UClYSachcLCPcKdvZw6iE4qw)
++ [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
++ [Abdul Aziz Ahwan](https://www.youtube.com/channel/UCQUfwiydQHf0u4Gb6uT-hyA)
++ [Agit Naeta](https://www.youtube.com/channel/UC2ZwPrUbjBcAbk9qem810rA)
++ [Artivisi Media](https://www.youtube.com/channel/UC3oNtvY3sETKZU7wEQyePQQ)
++ [Azhar Rivaldi](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
++ [Azis Seno](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
 
 ## B
-+ BuildWith Angga : [angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
++ [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
 
 ## C
 
-+ Cybereye Comunnity : [cybereye](https://www.youtube.com/channel/UCZbsWQGnHQQxLFFyLsuEF_g)
++ [Cybereye Comunnity](https://www.youtube.com/channel/UCZbsWQGnHQQxLFFyLsuEF_g)
++ [CodeWithIhwan](https://www.youtube.com/channel/UCjntzibNSsjjIOh0HoP9vxw)
 
 ## D
 
-+ Daeng Web : [daeng](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww)
-+ Devindo : [cybereye](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
++ [Daeng Web](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww)
++ [Devindo](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
 
 ## E
 
-+ Erico Darmawan Handoyo: [Erico Darmawan Handoyo](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww)
-+ Eko Kurniawan Khannedy: [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
-+ Ega Radiegtya: [ega](https://www.youtube.com/channel/UCOh-ds8EPfG8AzZOmgFRUiA)
++ [Erico Darmawan Handoyo](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww)
++ [Ega Radiegtya](https://www.youtube.com/channel/UCOh-ds8EPfG8AzZOmgFRUiA)
 
 ## F
 
@@ -80,21 +83,20 @@
 
 ## G
 
-+ Galih Pratama: [Galih](https://www.youtube.com/channel/UClWBVXTagK9stScJlsHeEGA)
-+ Guntur Budi: [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
++ [Galih Pratama](https://www.youtube.com/channel/UClWBVXTagK9stScJlsHeEGA)
++ [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
 
 ## H
 
-+ Haerul Muttaqin: [haerul muttaqin](https://www.youtube.com/channel/UCFOcbpcqG-f7Ootft8zKWzw)
-+ Haidar Afif Maulana: [haidar](https://www.youtube.com/channel/UC9XfZRM3OrOYci7ZLD6sU-A)
-+ Hendra Setiawan: [hendra](https://www.youtube.com/channel/UCwFN8mv31_M8quDQvAsgo1Q)
++ [Haerul Muttaqin](https://www.youtube.com/channel/UCFOcbpcqG-f7Ootft8zKWzw)
++ [Haidar Afif Maulana](https://www.youtube.com/channel/UC9XfZRM3OrOYci7ZLD6sU-A)
++ [Hendra Setiawan:](https://www.youtube.com/channel/UCwFN8mv31_M8quDQvAsgo1Q)
 
 ## I
 
-+ IDStack: [idstack](https://youtube.com/@idstack)
-+ Ihwan: [ihwan](https://www.youtube.com/channel/UCjntzibNSsjjIOh0HoP9vxw)
-+ Indonesia Belajar: [indonesia belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
-+ idr corner: [idrcorner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
++ [IDStack](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
++ [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
++ [idr corner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
 
 ## J
 
@@ -102,32 +104,33 @@
 
 ## K
 
-+ Kawan Koding: [kawankoding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
-+ Kelas Terbuka: [kelasterbuka](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
-+ KopiAnan: [kopianan](https://www.youtube.com/channel/UC1NN2986RQGNmzhDUl_WtyQ)
++ [Kawan Koding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
++ [Kelas Terbuka](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
++ [KopiAnan](https://www.youtube.com/channel/UC1NN2986RQGNmzhDUl_WtyQ)
 
 
 ## L
 
-+ Laravel Youtube: [laravelyt](https://www.youtube.com/channel/UCT_1pPaTXKEl4ZpJQuxaRzg)
-+ Lazday Indonesia: [lazday](https://www.youtube.com/channel/UCnJFFAhsxC1DWrJqySPPAIw)
-+ LeenuksID: [leenuksid](https://www.youtube.com/channel/UCUvXjaQRdHcptVbGoQ_Dkkg)
++ [Laravel Youtube](https://www.youtube.com/channel/UCT_1pPaTXKEl4ZpJQuxaRzg)
++ [Lazday Indonesia](https://www.youtube.com/channel/UCnJFFAhsxC1DWrJqySPPAIw)
++ [LeenuksID](https://www.youtube.com/channel/UCUvXjaQRdHcptVbGoQ_Dkkg)
 
 ## M
 
-+ Musobar Wuriyanto: [Musobar Media](https://www.youtube.com/channel/UCqOBKU-JXrM86FTt7Xzwdxw)
++ [Musobar Wuriyanto](https://www.youtube.com/channel/UCqOBKU-JXrM86FTt7Xzwdxw)
 
 ## N
 
-+ Nusendra Hanggarawan: [Nusendra.com](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
++ [Nusendra Hanggarawan](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
 
 ## O
 
-+ Onno Center: [onno](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig)
++ [Onno Center](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig)
 
 ## P
 
-+ Petani Kode: [petanikode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
++ [Petani Kode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
++ [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 
 ## Q
 
@@ -135,13 +138,13 @@
 
 ## R
 
-+ Robby Dianputra: [bagicode](https://www.youtube.com/channel/UCoAtRuBwX_I2kFiUoTVgUmQ)
-+ Rizal Hilman: [rz.khilman](https://www.youtube.com/channel/UCL6gpc5cX0Ku5-WzIaYO-aQ)
++ [Robby Dianputra](https://www.youtube.com/channel/UCoAtRuBwX_I2kFiUoTVgUmQ)
++ [Rizal Hilman](https://www.youtube.com/channel/UCL6gpc5cX0Ku5-WzIaYO-aQ)
 
 ## S
 
-+ Sekolah Koding: [sk](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
-+ Sastra Nabanan: [sastra](https://www.youtube.com/user/sastranababan)
++ [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
++ [Sastra Nabanan](https://www.youtube.com/user/sastranababan)
 
 ## T
 
@@ -157,7 +160,7 @@
 
 ## W
 
-+ Web Programming Unpas [wpu](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
++ [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
 
 ## X
 +
