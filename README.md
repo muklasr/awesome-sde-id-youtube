@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
-😎 Daftar akun Youtube keren dari para pegiat software developer engineer di Indonesia
+😎 Daftar akun Youtube keren dari para pegiat Software Developer Engineer di Indonesia
 
 ## Navigasi Berdasar Abjad
 
