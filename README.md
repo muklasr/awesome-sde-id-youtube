@@ -47,7 +47,7 @@
 + Formatnya agar diseragamkan dengan yang lain, yakni: `[nama_channel](link_youtube)`
 + Satu Pull Request hanya untuk menambahkan satu nama baru, hal ini untuk memperketat proses review
 + Jangan lupa untuk klik ⭐️ di repository ini.
-+ Terima kasih untuk kontribusinya, dan semoga bermanfaat...
++ Terima kasih untuk kontribusinya, dan semoga bermanfaat.
 
 ## A
 
