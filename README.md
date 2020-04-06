@@ -9,7 +9,6 @@
 
 - [awesome-sde-id-youtube](#awesome-sde-id-youtube)
   - [Navigasi Berdasar Abjad](#navigasi-berdasar-abjad)
-  - [Cara Untuk Menambahkan Daftar Baru](#cara-untuk-menambahkan-daftar-baru)
   - [A](#a)
   - [B](#b)
   - [C](#c)
