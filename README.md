@@ -8,7 +8,6 @@
 ## Navigasi Berdasar Abjad
 
 - [awesome-sde-id-youtube](#awesome-sde-id-youtube)
-  - [Navigasi Berdasar Abjad](#navigasi-berdasar-abjad)
   - [A](#a)
   - [B](#b)
   - [C](#c)
