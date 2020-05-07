@@ -47,6 +47,7 @@
 
 ## B
 + [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
++ [Bisa Coding](https://www.youtube.com/channel/UCl78GqenSrq9UKUyItAy6Nw)
 
 ## C
 
@@ -109,6 +110,7 @@
 ## N
 
 + [Nusendra Hanggarawan](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
++ [Ngoding Pintar](https://www.youtube.com/channel/UCPNxvt1OZMhVRzeBFK_VDig/videos)
 
 ## O
 
@@ -132,6 +134,7 @@
 
 + [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 + [Sastra Nabanan](https://www.youtube.com/user/sastranababan)
++ [Semmi Verian](https://www.youtube.com/user/semver123)
 
 ## T
 
