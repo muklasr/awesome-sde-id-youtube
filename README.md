@@ -68,7 +68,7 @@
 
 ## F
 
-+
++ [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 
 ## G
 
@@ -160,7 +160,7 @@
 
 ## Y
 
-+
++ [YukCoding Media](https://www.youtube.com/channel/UCkIiNw-qbCy_NHZeg8BNsMQ)
 
 ## Z
 
