@@ -66,7 +66,7 @@
 
 ## F
 
-+
++ [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 
 ## G
 
@@ -87,7 +87,7 @@
 
 ## J
 
-+ 
++ [JuniorDev](https://www.youtube.com/channel/UCvaOvKG4sm5XzV78OqEDUjA)
 
 ## K
 
@@ -157,7 +157,7 @@
 
 ## Y
 
-+
++ [YukCoding Media](https://www.youtube.com/channel/UCkIiNw-qbCy_NHZeg8BNsMQ)
 
 ## Z
 
