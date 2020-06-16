@@ -44,6 +44,7 @@
 + [Artivisi Media](https://www.youtube.com/channel/UC3oNtvY3sETKZU7wEQyePQQ)
 + [Azhar Rivaldi](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
 + [Azis Seno](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
++ [Arnaldo Sinaga](https://www.youtube.com/user/hopeaustar)
 
 ## B
 + [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
@@ -58,6 +59,7 @@
 
 + [Daeng Web](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww)
 + [Devindo](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
++ [Dicoding Indonesia](https://www.youtube.com/channel/UCM6BWkgiGrCHG967i_PyMiw)
 
 ## E
 
@@ -78,6 +80,7 @@
 + [Haerul Muttaqin](https://www.youtube.com/channel/UCFOcbpcqG-f7Ootft8zKWzw)
 + [Haidar Afif Maulana](https://www.youtube.com/channel/UC9XfZRM3OrOYci7ZLD6sU-A)
 + [Hendra Setiawan:](https://www.youtube.com/channel/UCwFN8mv31_M8quDQvAsgo1Q)
++ [Hactiv8 Indonesia](https://www.youtube.com/channel/UCyTOwW6s6zmGGFGmLDkfp2w)
 
 ## I
 
@@ -87,7 +90,7 @@
 
 ## J
 
-+ [JuniorDev](https://www.youtube.com/channel/UCvaOvKG4sm5XzV78OqEDUjA)
++ [Junior Dev](https://www.youtube.com/channel/UCvaOvKG4sm5XzV78OqEDUjA)
 
 ## K
 
