@@ -49,6 +49,7 @@
 ## B
 + [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
 + [Bisa Coding](https://www.youtube.com/channel/UCl78GqenSrq9UKUyItAy6Nw)
++ [Biruni Dev](https://www.youtube.com/channel/UCyj-fIFSMwrwbuzx1sCWztg)
 
 ## C
 
