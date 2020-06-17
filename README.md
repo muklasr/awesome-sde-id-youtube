@@ -126,6 +126,9 @@
 
 + [Petani Kode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
 + [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
++ [Parsinta](https://www.youtube.com/channel/UCPlEbdgWOXkKEEl7dhBxs4Q)
++ [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
++ [PuedeEducation](https://www.youtube.com/channel/UCW6qDGUegfTwKZlZWcm0pBQ)
 
 ## Q
 
