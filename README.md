@@ -138,6 +138,7 @@
 + [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 + [Sastra Nabanan](https://www.youtube.com/user/sastranababan)
 + [Semmi Verian](https://www.youtube.com/user/semver123)
++ [Seniman Koding](https://www.youtube.com/channel/UCXyiY-zsCiz6UoFCZmuJfOQ/videos)
 
 ## T
 
