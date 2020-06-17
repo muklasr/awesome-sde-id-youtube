@@ -45,6 +45,7 @@
 + [Azhar Rivaldi](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
 + [Azis Seno](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
 + [Arnaldo Sinaga](https://www.youtube.com/user/hopeaustar)
++ [Ahmad Yunus Afghoni](https://www.youtube.com/channel/UCjxPo_EJYtoj-Ho3jx_zQpQ)
 
 ## B
 + [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
