@@ -142,6 +142,7 @@
 ## T
 
 + [Tahu Coding](https://www.youtube.com/channel/UCXFdc68srZQ-ok4I1-pHs2g)
++ [Tutor Komputer](https://www.youtube.com/channel/UCpU7qfVvHlMf698on43t9LQ)
 
 ## U
 
