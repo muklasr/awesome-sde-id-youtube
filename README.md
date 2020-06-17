@@ -138,6 +138,8 @@
 
 + [Robby Dianputra](https://www.youtube.com/channel/UCoAtRuBwX_I2kFiUoTVgUmQ)
 + [Rizal Hilman](https://www.youtube.com/channel/UCL6gpc5cX0Ku5-WzIaYO-aQ)
++ [ReJourney](https://www.youtube.com/user/pakarnya)
++ [Rollo Academy](https://www.youtube.com/channel/UC4wUtPE3ZqC3kgLXz--rjrQ)
 
 ## S
 
