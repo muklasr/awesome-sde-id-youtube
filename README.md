@@ -116,6 +116,7 @@
 
 + [Nusendra Hanggarawan](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
 + [Ngoding Pintar](https://www.youtube.com/channel/UCPNxvt1OZMhVRzeBFK_VDig/videos)
++ [Nuris Akbar](https://www.youtube.com/channel/UC0Qozugp4pVTQwkgTcUdmkg)
 
 ## O
 
