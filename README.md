@@ -75,6 +75,7 @@
 ## G
 
 + [Galih Pratama](https://www.youtube.com/channel/UClWBVXTagK9stScJlsHeEGA)
++ [Gamma Techno](https://m.youtube.com/channel/UC87A-zRelk549SRuyphJPLQ)
 + [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
 
 ## H
