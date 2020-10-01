@@ -46,6 +46,7 @@
 + [Azis Seno](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
 
 ## B
++ [Baledemy](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg)
 + [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
 + [Bisa Coding](https://www.youtube.com/channel/UCl78GqenSrq9UKUyItAy6Nw)
 
