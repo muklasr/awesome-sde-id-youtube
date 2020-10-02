@@ -48,6 +48,7 @@
 + [Ahmad Yunus Afghoni](https://www.youtube.com/channel/UCjxPo_EJYtoj-Ho3jx_zQpQ)
 
 ## B
++ [Baledemy](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg)
 + [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
 + [Bisa Coding](https://www.youtube.com/channel/UCl78GqenSrq9UKUyItAy6Nw)
 + [Biruni Dev](https://www.youtube.com/channel/UCyj-fIFSMwrwbuzx1sCWztg)
