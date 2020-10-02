@@ -7,33 +7,8 @@
 
 ## Navigasi Berdasar Abjad
 
-- [awesome-sde-id-youtube](#awesome-sde-id-youtube)
-  - [A](#a)
-  - [B](#b)
-  - [C](#c)
-  - [D](#d)
-  - [E](#e)
-  - [F](#f)
-  - [G](#g)
-  - [H](#h)
-  - [I](#i)
-  - [J](#j)
-  - [K](#k)
-  - [L](#l)
-  - [M](#m)
-  - [N](#n)
-  - [O](#o)
-  - [P](#p)
-  - [Q](#q)
-  - [R](#r)
-  - [S](#s)
-  - [T](#t)
-  - [U](#u)
-  - [V](#v)
-  - [W](#w)
-  - [X](#x)
-  - [Y](#y)
-  - [Z](#z)
+- [awesome-sde-id-youtube](#awesome-sde-id-youtube)  
+  [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
 
@@ -45,10 +20,13 @@
 + [Azhar Rivaldi](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
 + [Azis Seno](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
 + [Arnaldo Sinaga](https://www.youtube.com/user/hopeaustar)
++ [Ahmad Yunus Afghoni](https://www.youtube.com/channel/UCjxPo_EJYtoj-Ho3jx_zQpQ)
 
 ## B
++ [Baledemy](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg)
 + [BuildWith Angga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
 + [Bisa Coding](https://www.youtube.com/channel/UCl78GqenSrq9UKUyItAy6Nw)
++ [Biruni Dev](https://www.youtube.com/channel/UCyj-fIFSMwrwbuzx1sCWztg)
 
 ## C
 
@@ -73,6 +51,7 @@
 ## G
 
 + [Galih Pratama](https://www.youtube.com/channel/UClWBVXTagK9stScJlsHeEGA)
++ [Gamma Techno](https://m.youtube.com/channel/UC87A-zRelk549SRuyphJPLQ)
 + [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
 
 ## H
@@ -97,6 +76,7 @@
 + [Kawan Koding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
 + [Kelas Terbuka](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
 + [KopiAnan](https://www.youtube.com/channel/UC1NN2986RQGNmzhDUl_WtyQ)
++ [Kampus Koding](https://www.youtube.com/channel/UCEnbUTEcbS8fAQxgsKQI7Sw)
 
 
 ## L
@@ -114,6 +94,7 @@
 
 + [Nusendra Hanggarawan](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
 + [Ngoding Pintar](https://www.youtube.com/channel/UCPNxvt1OZMhVRzeBFK_VDig/videos)
++ [Nuris Akbar](https://www.youtube.com/channel/UC0Qozugp4pVTQwkgTcUdmkg)
 
 ## O
 
@@ -123,6 +104,9 @@
 
 + [Petani Kode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
 + [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
++ [Parsinta](https://www.youtube.com/channel/UCPlEbdgWOXkKEEl7dhBxs4Q)
++ [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
++ [PuedeEducation](https://www.youtube.com/channel/UCW6qDGUegfTwKZlZWcm0pBQ)
 
 ## Q
 
@@ -132,16 +116,20 @@
 
 + [Robby Dianputra](https://www.youtube.com/channel/UCoAtRuBwX_I2kFiUoTVgUmQ)
 + [Rizal Hilman](https://www.youtube.com/channel/UCL6gpc5cX0Ku5-WzIaYO-aQ)
++ [ReJourney](https://www.youtube.com/user/pakarnya)
++ [Rollo Academy](https://www.youtube.com/channel/UC4wUtPE3ZqC3kgLXz--rjrQ)
 
 ## S
 
 + [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 + [Sastra Nabanan](https://www.youtube.com/user/sastranababan)
 + [Semmi Verian](https://www.youtube.com/user/semver123)
++ [Seniman Koding](https://www.youtube.com/channel/UCXyiY-zsCiz6UoFCZmuJfOQ/videos)
 
 ## T
 
-+ 
++ [Tahu Coding](https://www.youtube.com/channel/UCXFdc68srZQ-ok4I1-pHs2g)
++ [Tutor Komputer](https://www.youtube.com/channel/UCpU7qfVvHlMf698on43t9LQ)
 
 ## U
 
