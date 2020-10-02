@@ -52,6 +52,7 @@
 
 + [Galih Pratama](https://www.youtube.com/channel/UClWBVXTagK9stScJlsHeEGA)
 + [Gamma Techno](https://m.youtube.com/channel/UC87A-zRelk549SRuyphJPLQ)
++ [Ghack Dev](https://www.youtube.com/user/galihlarasprakoso)
 + [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
 
 ## H
@@ -87,8 +88,10 @@
 
 ## M
 
-+ [Musobar Wuriyanto](https://www.youtube.com/channel/UCqOBKU-JXrM86FTt7Xzwdxw)
 + [Media Deeptech](https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw)
++ [Mulai Dari NULL](https://www.youtube.com/channel/UCdeCCq3KNq9NSx4sCft91eA)
++ [Mulia Arifandi Nasution](https://www.youtube.com/channel/UC4_KG3N766XHootvKXfA6Zg)
++ [Musobar Wuriyanto](https://www.youtube.com/channel/UCqOBKU-JXrM86FTt7Xzwdxw)
 
 ## N
 
@@ -116,6 +119,7 @@
 
 + [Robby Dianputra](https://www.youtube.com/channel/UCoAtRuBwX_I2kFiUoTVgUmQ)
 + [Rizal Hilman](https://www.youtube.com/channel/UCL6gpc5cX0Ku5-WzIaYO-aQ)
++ [Riza Fahmi](https://www.youtube.com/user/ryanriggsy)
 + [ReJourney](https://www.youtube.com/user/pakarnya)
 + [Rollo Academy](https://www.youtube.com/channel/UC4wUtPE3ZqC3kgLXz--rjrQ)
 
