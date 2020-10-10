@@ -1,9 +1,9 @@
-# Contribution Guidelines
+# Panduan Kontribusi
 
-Please ensure your pull request adheres to the following guidelines:
+Harapan pastikan pull request anda mematuhi pedoman berikut:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Use the following format: `[nama_channel](link_youtube)`
-- Use alphabetical order
+- Telusuri data sebelumnya sebelum membuat yang baru, karena data Anda mungkin duplikat.
+- Gunakan format berikut: `[nama_channel](link_youtube)`
+- Gunakan Urutan Abjad.
 
-Thank you for your suggestions!
+Terimakasih untuk kontribusi Anda!
