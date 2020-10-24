@@ -12,15 +12,16 @@
 
 ## A
 
-+ [Agung Setiawan](https://www.youtube.com/channel/UClYSachcLCPcKdvZw6iE4qw)
-+ [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 + [Abdul Aziz Ahwan](https://www.youtube.com/channel/UCQUfwiydQHf0u4Gb6uT-hyA)
++ [Agung Setiawan](https://www.youtube.com/channel/UClYSachcLCPcKdvZw6iE4qw)
 + [Agit Naeta](https://www.youtube.com/channel/UC2ZwPrUbjBcAbk9qem810rA)
++ [Ahmad Yunus Afghoni](https://www.youtube.com/channel/UCjxPo_EJYtoj-Ho3jx_zQpQ)
++ [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
++ [Arkademy](https://www.youtube.com/c/Arkademy/)
++ [Arnaldo Sinaga](https://www.youtube.com/user/hopeaustar)
 + [Artivisi Media](https://www.youtube.com/channel/UC3oNtvY3sETKZU7wEQyePQQ)
 + [Azhar Rivaldi](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
 + [Azis Seno](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
-+ [Arnaldo Sinaga](https://www.youtube.com/user/hopeaustar)
-+ [Ahmad Yunus Afghoni](https://www.youtube.com/channel/UCjxPo_EJYtoj-Ho3jx_zQpQ)
 
 ## B
 + [Baledemy](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg)
@@ -107,9 +108,11 @@
 
 ## P
 
-+ [Petani Kode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
-+ [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
++ [Pangeran Berkedok](https://www.youtube.com/channel/UC6XQC4sPeHf0jEAcs3mWBfw/)
 + [Parsinta](https://www.youtube.com/channel/UCPlEbdgWOXkKEEl7dhBxs4Q)
++ [Petani Kode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
++ [Pintaar](https://www.youtube.com/channel/UCQNbxp6a1Oo6GtZlQpeM8Rg)
++ [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 + [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
 + [PuedeEducation](https://www.youtube.com/channel/UCW6qDGUegfTwKZlZWcm0pBQ)
 
