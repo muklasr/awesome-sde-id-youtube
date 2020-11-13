@@ -55,6 +55,7 @@
 + [Gamma Techno](https://m.youtube.com/channel/UC87A-zRelk549SRuyphJPLQ)
 + [Ghack Dev](https://www.youtube.com/user/galihlarasprakoso)
 + [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
++ [GITS Indonesia](https://www.youtube.com/channel/UCwyc5AeH-8bTbA9v-P8Q1Hw)
 
 ## H
 
@@ -74,13 +75,16 @@
 ## J
 
 + [Junior Dev](https://www.youtube.com/channel/UCvaOvKG4sm5XzV78OqEDUjA)
++ [JVM Indonesia](https://www.youtube.com/channel/UCXwXmQEQySqhqAMmys4N56w)
 
 ## K
 
 + [Kawan Koding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
 + [Kelas Terbuka](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
++ [Kelas Koding](https://www.youtube.com/channel/UCrDhhfIrq-Oc1EBVHWqYhUw)
 + [KopiAnan](https://www.youtube.com/channel/UC1NN2986RQGNmzhDUl_WtyQ)
 + [Kampus Koding](https://www.youtube.com/channel/UCEnbUTEcbS8fAQxgsKQI7Sw)
++ [Kistanto](https://www.youtube.com/channel/UCOzo0Xum-ChdaWU-4N29KKQ)
 
 
 ## L
@@ -105,12 +109,14 @@
 ## O
 
 + [Onno Center](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig)
++ [oon arfiandwi](https://www.youtube.com/channel/UCOGA5aJwf_9-E5cQ_Y95YaQ)
 
 ## P
 
 + [Pangeran Berkedok](https://www.youtube.com/channel/UC6XQC4sPeHf0jEAcs3mWBfw/)
 + [Parsinta](https://www.youtube.com/channel/UCPlEbdgWOXkKEEl7dhBxs4Q)
 + [Petani Kode](https://www.youtube.com/channel/UCVEEB0XiaogU6UodKXRaNyg)
++ [Peternak Kode](https://www.youtube.com/channel/UCHgTzvWzAe_HTGPMl5-4X3w)
 + [Pintaar](https://www.youtube.com/channel/UCQNbxp6a1Oo6GtZlQpeM8Rg)
 + [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 + [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
