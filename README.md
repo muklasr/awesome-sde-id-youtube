@@ -13,9 +13,11 @@
 ## A
 
 + [Abdul Aziz Ahwan](https://www.youtube.com/channel/UCQUfwiydQHf0u4Gb6uT-hyA)
++ [Aden Rahmandi](https://www.youtube.com/channel/UC4RphDrAUU7ainf6WVco-7Q)
 + [Agung Setiawan](https://www.youtube.com/channel/UClYSachcLCPcKdvZw6iE4qw)
 + [Agit Naeta](https://www.youtube.com/channel/UC2ZwPrUbjBcAbk9qem810rA)
 + [Ahmad Yunus Afghoni](https://www.youtube.com/channel/UCjxPo_EJYtoj-Ho3jx_zQpQ)
++ [Ahmad Code](https://www.youtube.com/channel/UClJLitmcyWx2N_EEkAiC1nA)
 + [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 + [Arkademy](https://www.youtube.com/c/Arkademy/)
 + [Arnaldo Sinaga](https://www.youtube.com/user/hopeaustar)
@@ -140,6 +142,7 @@
 + [Sastra Nabanan](https://www.youtube.com/user/sastranababan)
 + [Semmi Verian](https://www.youtube.com/user/semver123)
 + [Seniman Koding](https://www.youtube.com/channel/UCXyiY-zsCiz6UoFCZmuJfOQ/videos)
++ [Study With Student](https://www.youtube.com/channel/UC8KFFLw4MCeYzN28JN31NUw)
 
 ## T
 
@@ -158,6 +161,7 @@
 ## W
 
 + [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
++ [Wahidev Academy](https://www.youtube.com/channel/UCXsAaDHG8E4PN3rIHGaZ4XQ)
 
 ## X
 +
