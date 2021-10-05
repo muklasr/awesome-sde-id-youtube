@@ -87,6 +87,7 @@
 + [KopiAnan](https://www.youtube.com/channel/UC1NN2986RQGNmzhDUl_WtyQ)
 + [Kampus Koding](https://www.youtube.com/channel/UCEnbUTEcbS8fAQxgsKQI7Sw)
 + [Kistanto](https://www.youtube.com/channel/UCOzo0Xum-ChdaWU-4N29KKQ)
++ [Kuldii Project](https://www.youtube.com/c/KuldiiProject)
 
 
 ## L
