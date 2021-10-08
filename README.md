@@ -59,6 +59,7 @@
 + [Ghack Dev](https://www.youtube.com/user/galihlarasprakoso)
 + [Guntur Budi](https://www.youtube.com/channel/UCFAzqqspfsuFfo4wy_Ygy1A)
 + [GITS Indonesia](https://www.youtube.com/channel/UCwyc5AeH-8bTbA9v-P8Q1Hw)
++ [Gus nando](https://www.youtube.com/channel/UCzJKAKr7Fx630zHMP2ndGAw)
 
 ## H
 
