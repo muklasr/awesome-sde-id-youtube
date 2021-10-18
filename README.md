@@ -22,6 +22,7 @@
 + [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 + [Arkademy](https://www.youtube.com/c/Arkademy/)
 + [Arnaldo Sinaga](https://www.youtube.com/user/hopeaustar)
++ [Array ID](https://www.youtube.com/c/ArrayID/featured)
 + [Artivisi Media](https://www.youtube.com/channel/UC3oNtvY3sETKZU7wEQyePQQ)
 + [Azhar Rivaldi](https://www.youtube.com/channel/UCBXvboJdq9BSqSaZtSZhxyA)
 + [Azis Seno](https://www.youtube.com/channel/UCMYLawqsQaujS5erEoPsV8w)
@@ -107,6 +108,7 @@
 
 + [Nusendra Hanggarawan](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
 + [Ngoding Pintar](https://www.youtube.com/channel/UCPNxvt1OZMhVRzeBFK_VDig/videos)
++ [NgodingPython](https://www.youtube.com/c/NgodingPython/featured)
 + [Nuris Akbar](https://www.youtube.com/channel/UC0Qozugp4pVTQwkgTcUdmkg)
 
 ## O
@@ -157,7 +159,7 @@
 
 ## V
 
-+
++ [VIP CODE STUDIO](https://www.youtube.com/c/vipcodestudio/featured)
 
 ## W
 
