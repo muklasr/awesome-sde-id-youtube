@@ -163,6 +163,7 @@
 
 + [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
 + [Wahidev Academy](https://www.youtube.com/channel/UCXsAaDHG8E4PN3rIHGaZ4XQ)
++ [Web Dev Indonesia](https://www.youtube.com/channel/UC83fN5gNGc3h7in45mXCjHw)
 
 ## X
 +
