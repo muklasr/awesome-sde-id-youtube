@@ -43,6 +43,7 @@
 + [Daeng Web](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww)
 + [Devindo](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
 + [Dicoding Indonesia](https://www.youtube.com/channel/UCM6BWkgiGrCHG967i_PyMiw)
++ [Dumbways Indonesia](https://www.youtube.com/channel/UChHCw-qvjDAikBZlDkAhz5w)
 
 ## E
 
